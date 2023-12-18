@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Draw</string>
+    <string name="app_launcher_name">Dibuix</string>
+    <string name="open_file">Obre un fitxer</string>
+    <string name="eraser">Goma d\'esborrar</string>
+    <string name="eyedropper">Comptagotes</string>
+    <string name="bucket_fill">Pot de pintura</string>
+    <string name="failed_to_load_image">Ha fallat en carregar la imatge %s</string>
+    <!-- Settings -->
+    <string name="show_brush_size">Mostra l\'eina de mida del pinzell</string>
+    <string name="allow_zooming_moving_canvas">Permet fer zoom i moure el llenç amb gestos</string>
+    <string name="clear">Neteja</string>
+    <string name="change_background_color">Canvia el color del fons</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

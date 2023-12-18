@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Egyszerű rajzolás</string>
+    <string name="app_launcher_name">Rajzolás</string>
+    <string name="open_file">Fájl megnyitása</string>
+    <string name="eraser">Radír</string>
+    <string name="eyedropper">Pipetta</string>
+    <string name="bucket_fill">Kitöltés</string>
+    <string name="failed_to_load_image">A(z) %s kép betöltése sikertelen</string>
+    <!-- Settings -->
+    <string name="show_brush_size">Ecsetméret eszköz megjelenítése</string>
+    <string name="allow_zooming_moving_canvas">A vászon kézmozdulatokkal történő nagyításának és mozgatásának engedélyezése</string>
+    <string name="clear">Törlés</string>
+    <string name="change_background_color">Háttérszín megváltoztatása</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
